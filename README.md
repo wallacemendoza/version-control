@@ -1,5 +1,9 @@
 # D197 Version Control
+<<<<<<< HEAD
 gitLab Enterprise Edition 17.3.1
+=======
+My Student ID 011862367
+>>>>>>> Test
 
 
 ## Getting started
