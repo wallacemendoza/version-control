@@ -1,5 +1,5 @@
 # D197 Version Control
-
+gitLab Enterprise Edition 17.3.1
 
 
 ## Getting started
