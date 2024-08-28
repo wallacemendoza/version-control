@@ -1,0 +1,98 @@
+commit f4773869095c7933275cad7b9840451c8f185ca3 (HEAD -> Working, tag: V.1.0.0, origin/Working)
+Merge: b56ae47 107a3ee
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:22:40 2024 -0400
+
+    Merge conflict in readme.md resolved
+
+commit b56ae4718bb9a862b141ba257325a49724342f02
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:15:40 2024 -0400
+
+    Added version number to readme.md file in Working branch
+
+commit 107a3eec5b5b96432baf0e76d7875b2f06984ad5 (origin/Test, Test)
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:03:36 2024 -0400
+
+    Added My Student ID in the readme.md file in the Test branch
+
+commit 6932984dfb2fa31073af3f81f6640d14f0ba1475
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:51:25 2024 -0400
+
+    Added phone number input in contact.html
+
+commit a31b0354ade5da9ad4f40b9f7aa38fa06d5c75e6
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:44:42 2024 -0400
+
+    Team member added in team.html
+
+commit 6560c8a1b5bb75311ac2e45f371e66b3a7654645
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:34:52 2024 -0400
+
+    Added new customer with a customer review in customers.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7 (origin/main, origin/HEAD, main)
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
+:
+commit f4773869095c7933275cad7b9840451c8f185ca3 (HEAD -> Working, tag: V.1.0.0, origin/Working)
+Merge: b56ae47 107a3ee
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:22:40 2024 -0400
+
+    Merge conflict in readme.md resolved
+
+commit b56ae4718bb9a862b141ba257325a49724342f02
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:15:40 2024 -0400
+
+    Added version number to readme.md file in Working branch
+
+commit 107a3eec5b5b96432baf0e76d7875b2f06984ad5 (origin/Test, Test)
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Wed Aug 28 00:03:36 2024 -0400
+
+    Added My Student ID in the readme.md file in the Test branch
+
+commit 6932984dfb2fa31073af3f81f6640d14f0ba1475
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:51:25 2024 -0400
+
+    Added phone number input in contact.html
+
+commit a31b0354ade5da9ad4f40b9f7aa38fa06d5c75e6
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:44:42 2024 -0400
+
+    Team member added in team.html
+
+commit 6560c8a1b5bb75311ac2e45f371e66b3a7654645
+Author: Wallace Mendoza <wmendo8@wgu.edu>
+Date:   Tue Aug 27 23:34:52 2024 -0400
+
+    Added new customer with a customer review in customers.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7 (origin/main, origin/HEAD, main)
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
+:
