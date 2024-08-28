@@ -1,0 +1,25 @@
+Merge Conflict Summary:
+"walla@DESKTOP-BAA04GT MINGW64 ~/d197-version-control (Working)
+$ git push --set-upstream origin Working
+Everything up-to-date
+branch 'Working' set up to track 'origin/Working'.
+
+walla@DESKTOP-BAA04GT MINGW64 ~/d197-version-control (Working)
+$ git merge Test -m "Merge Working and Test branches"
+Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.
+
+walla@DESKTOP-BAA04GT MINGW64 ~/d197-version-control (Working|MERGING)
+$ nano readme.md
+
+walla@DESKTOP-BAA04GT MINGW64 ~/d197-version-control (Working|MERGING)
+$ git add .
+
+walla@DESKTOP-BAA04GT MINGW64 ~/d197-version-control (Working|MERGING)
+$ git commit -m "Merge conflict in readme.md resolved"
+[Working f477386] Merge conflict in readme.md resolved"
+
+in part C1 - 3 changes were made: customerts.html (a new customer and a customer review was added);
+team.html (a new team member named Owen was added);
+contact.html (Phone number input was added)
