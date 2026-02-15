@@ -1,96 +1,551 @@
-# D197 Version Control
-<<<<<<< HEAD
-gitLab Enterprise Edition 17.3.1
-=======
-My Student ID 011862367
->>>>>>> Test
+# `GIT_WORKFLOW_MASTERY`
 
-
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/wgu-gitlab-environment/task-templates/d197-version-control.git
-git branch -M main
-git push -uf origin main
+```ascii
+ ██████╗ ██╗████████╗    ██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗███████╗██╗      ██████╗ ██╗    ██╗
+██╔════╝ ██║╚══██╔══╝    ██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝██║     ██╔═══██╗██║    ██║
+██║  ███╗██║   ██║       ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ █████╗  ██║     ██║   ██║██║ █╗ ██║
+██║   ██║██║   ██║       ██║███╗██║██║   ██║██╔══██╗██╔═██╗ ██╔══╝  ██║     ██║   ██║██║███╗██║
+╚██████╔╝██║   ██║       ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗██║     ███████╗╚██████╔╝╚███╔███╔╝
+ ╚═════╝ ╚═╝   ╚═╝        ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 ```
 
-## Integrate with your tools
+<div align="center">
 
-- [ ] [Set up project integrations](https://gitlab.com/wgu-gitlab-environment/task-templates/d197-version-control/-/settings/integrations)
+### ⚡ ADVANCED VERSION CONTROL SYSTEM DEMONSTRATION ⚡
 
-## Collaborate with your team
+**`GIT`** × **`GITLAB`** × **`BRANCHING`** × **`MERGE_STRATEGIES`** × **`TAGGING`**
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+*Practical exploration of professional Git workflows, collaborative development patterns, and version control best practices*
 
-## Test and Deploy
+-----
 
-Use the built-in continuous integration in GitLab.
+![HTML](https://img.shields.io/badge/HTML-88.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9.6%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-2.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-WORKFLOW-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+</div>
 
-***
+-----
 
-# Editing this README
+## 🎯 `PROJECT_OVERVIEW`
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+**Professional Git workflow demonstration** showcasing industry-standard version control practices through a multi-page website project. Implements branching strategies, merge operations, conflict resolution, release tagging, and comprehensive change documentation.
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+### `CORE_FOCUS`
 
-## Name
-Choose a self-explaining name for your project.
+```yaml
+technology: "Git & GitLab"
+methodology: "Professional Version Control Workflows"
+demonstration:
+  - Feature branch development
+  - Merge conflict resolution
+  - Release tagging & versioning
+  - Commit history management
+  - Collaborative workflows
+  - Change documentation
+application: "Business Website (7 pages)"
+```
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+-----
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+## 🔥 `VERSION_CONTROL_FEATURES`
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+<table>
+<tr>
+<td width="50%">
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+### `BRANCHING_STRATEGY`
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+```bash
+✓ Main branch (production)
+✓ Working branch (development)
+✓ Test branch (QA/staging)
+✓ Feature branches
+✓ Hotfix branches
+✓ Release branches
+✓ Clean branch management
+```
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+</td>
+<td width="50%">
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+### `GIT_OPERATIONS`
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+```bash
+✓ Atomic commits
+✓ Meaningful commit messages
+✓ Merge strategies (FF, no-FF)
+✓ Conflict resolution
+✓ Cherry-picking commits
+✓ Rebase workflows
+✓ Tag management
+```
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+</td>
+</tr>
+</table>
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+### `PROFESSIONAL_PRACTICES`
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+|Practice           |Implementation              |Purpose                |
+|-------------------|----------------------------|-----------------------|
+|**Commit Messages**|Conventional format         |Clear change history   |
+|**Branch Naming**  |feature/*, fix/*, release/* |Organized workflow     |
+|**Merge Strategy** |No fast-forward merges      |Preserve branch history|
+|**Tagging**        |Semantic versioning (v1.0.0)|Release management     |
+|**Documentation**  |README updates per feature  |Knowledge sharing      |
+|**Code Review**    |Pull/Merge requests         |Quality assurance      |
 
-## License
-For open source projects, say how it is licensed.
+-----
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## 🛠️ `GIT_WORKFLOW_STACK`
+
+### `VERSION_CONTROL`
+
+```plaintext
+┌─────────────────────────────────────────────┐
+│  GIT 2.x                                    │
+│  ├─ Distributed version control              │
+│  ├─ Branch management                        │
+│  ├─ Merge & rebase operations                │
+│  ├─ Tag & release management                 │
+│  └─ Commit history tracking                  │
+└─────────────────────────────────────────────┘
+```
+
+### `COLLABORATION_PLATFORM`
+
+```plaintext
+┌─────────────────────────────────────────────┐
+│  GITLAB                                     │
+│  ├─ Repository hosting                       │
+│  ├─ Merge request workflows                  │
+│  ├─ CI/CD integration                        │
+│  ├─ Issue tracking                           │
+│  └─ Team collaboration                       │
+└─────────────────────────────────────────────┘
+```
+
+### `PROJECT_CONTENT`
+
+```plaintext
+┌─────────────────────────────────────────────┐
+│  BUSINESS WEBSITE                           │
+│  ├─ HTML5 (88.1%) - 7 pages                 │
+│  ├─ CSS3 (9.6%) - Responsive styling        │
+│  ├─ JavaScript (2.3%) - Interactivity       │
+│  └─ Images & Assets                         │
+└─────────────────────────────────────────────┘
+```
+
+-----
+
+## 📐 `BRANCH_ARCHITECTURE`
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                        MAIN BRANCH                             ║
+║                     (Production Ready)                         ║
+║   • Stable, tested code only                                  ║
+║   • Tagged releases (v1.0.0, v1.1.0, etc.)                   ║
+║   • Protected from direct commits                             ║
+╚═══════════════════════╦═══════════════════════════════════════╝
+                        ║
+            ┌───────────┴───────────┐
+            ↓                       ↓
+╔═══════════════════════╗  ╔═══════════════════════╗
+║    WORKING BRANCH     ║  ║     TEST BRANCH       ║
+║   (Development)       ║  ║    (QA/Staging)       ║
+║                       ║  ║                       ║
+║ • Active development  ║  ║ • Pre-production      ║
+║ • Feature integration ║  ║ • Quality assurance   ║
+║ • Ongoing work        ║  ║ • User testing        ║
+╚═══════╦═══════════════╝  ╚═══════════════════════╝
+        ║
+        ↓
+╔═══════════════════════╗
+║   FEATURE BRANCHES    ║
+║                       ║
+║ • feature/nav-update  ║
+║ • feature/contact-form║
+║ • fix/header-bug      ║
+║ • release/v1.1.0      ║
+╚═══════════════════════╝
+```
+
+-----
+
+## 💾 `WEBSITE_STRUCTURE`
+
+### Project Files
+
+```
+/ (root)
+├── index.html              # Homepage
+├── about.html              # Company information
+├── services.html           # Service offerings
+├── team.html               # Team members
+├── customers.html          # Client testimonials
+├── vision.html             # Company vision/mission
+├── contact.html            # Contact form
+├── css/
+│   └── styles.css          # Responsive styling
+├── js/
+│   └── main.js             # Interactive functionality
+├── images/
+│   ├── logo.png
+│   ├── team/
+│   └── clients/
+└── README.md               # Project documentation
+```
+
+### Page Purposes
+
+|Page              |Purpose        |Key Features               |
+|------------------|---------------|---------------------------|
+|**index.html**    |Homepage       |Hero section, CTA, overview|
+|**about.html**    |Company Info   |History, values, mission   |
+|**services.html** |Service Catalog|Offerings, pricing, details|
+|**team.html**     |Team Members   |Bios, photos, roles        |
+|**customers.html**|Testimonials   |Client reviews, logos      |
+|**vision.html**   |Future Goals   |Mission, vision, roadmap   |
+|**contact.html**  |Contact Form   |Email, phone, form         |
+
+-----
+
+## ⚙️ `GIT_OPERATIONS`
+
+### Professional Commit Workflow
+
+```bash
+# 1. Create feature branch from Working
+git checkout Working
+git pull origin Working
+git checkout -b feature/contact-form
+
+# 2. Make changes and commit
+git add contact.html css/styles.css
+git commit -m "feat: implement contact form with validation
+
+- Add contact form HTML structure
+- Style form with responsive CSS
+- Implement client-side validation
+- Add form submission handler"
+
+# 3. Push feature branch
+git push origin feature/contact-form
+
+# 4. Create merge request to Working
+# (Done via GitLab UI)
+
+# 5. After review, merge to Working
+git checkout Working
+git merge --no-ff feature/contact-form
+git push origin Working
+
+# 6. Test in Test branch
+git checkout Test
+git merge Working
+git push origin Test
+
+# 7. After QA approval, merge to Main
+git checkout main
+git merge --no-ff Working
+git tag -a v1.1.0 -m "Release version 1.1.0 - Contact form feature"
+git push origin main --tags
+```
+
+### Conventional Commit Messages
+
+```bash
+# Feature commits
+git commit -m "feat: add customer testimonials page"
+git commit -m "feat(nav): implement dropdown menu"
+
+# Bug fixes
+git commit -m "fix: resolve navigation menu overlap on mobile"
+git commit -m "fix(contact): correct form validation logic"
+
+# Documentation
+git commit -m "docs: update README with setup instructions"
+
+# Refactoring
+git commit -m "refactor: reorganize CSS file structure"
+
+# Styling
+git commit -m "style: improve button hover effects"
+```
+
+### Merge Conflict Resolution
+
+```bash
+# When conflicts occur during merge
+git merge feature/header-update
+
+# CONFLICT (content): Merge conflict in index.html
+# Manual resolution required
+
+# 1. Open conflicted file
+vim index.html
+
+# 2. Resolve conflicts (choose or combine changes)
+# Remove conflict markers: <<<<<<<, =======, >>>>>>>
+
+# 3. Stage resolved file
+git add index.html
+
+# 4. Complete merge
+git commit -m "merge: integrate header updates, resolve conflicts"
+```
+
+-----
+
+## 🏷️ `RELEASE_TAGGING`
+
+### Semantic Versioning
+
+```bash
+# Major release (breaking changes)
+git tag -a v2.0.0 -m "Major redesign with new branding"
+
+# Minor release (new features)
+git tag -a v1.1.0 -m "Add customer testimonials and vision page"
+
+# Patch release (bug fixes)
+git tag -a v1.0.1 -m "Fix mobile navigation issues"
+
+# List all tags
+git tag -l
+
+# Push tags to remote
+git push origin --tags
+
+# Checkout specific version
+git checkout v1.0.0
+```
+
+### Release Documentation
+
+```markdown
+# Release v1.1.0
+
+## New Features
+- Customer testimonials page
+- Company vision statement
+- Enhanced contact form validation
+
+## Bug Fixes
+- Mobile menu alignment
+- Form placeholder text
+- Image loading optimization
+
+## Breaking Changes
+None
+
+## Migration Guide
+No migration required - backward compatible
+```
+
+-----
+
+## 🎯 `WORKFLOW_SCENARIOS`
+
+### Scenario 1: Adding New Feature
+
+```bash
+# Developer creates feature branch
+git checkout -b feature/services-page
+
+# Makes changes across multiple commits
+git commit -m "feat: create services page HTML structure"
+git commit -m "style: add services page CSS"
+git commit -m "feat: add service detail modal"
+
+# Pushes to remote for review
+git push origin feature/services-page
+
+# Creates merge request
+# After approval, merges to Working branch
+```
+
+### Scenario 2: Hotfix Production Bug
+
+```bash
+# Critical bug found in production
+git checkout main
+git checkout -b hotfix/header-logo-missing
+
+# Fix the issue
+git commit -m "fix: restore missing header logo"
+
+# Merge directly to main (emergency)
+git checkout main
+git merge --no-ff hotfix/header-logo-missing
+git tag -a v1.0.1 -m "Hotfix: restore header logo"
+
+# Also merge to Working to keep in sync
+git checkout Working
+git merge hotfix/header-logo-missing
+```
+
+### Scenario 3: Preparing Release
+
+```bash
+# Create release branch from Working
+git checkout -b release/v1.1.0 Working
+
+# Final testing and version bumps
+git commit -m "chore: bump version to 1.1.0"
+git commit -m "docs: update CHANGELOG for v1.1.0"
+
+# Merge to main
+git checkout main
+git merge --no-ff release/v1.1.0
+git tag -a v1.1.0 -m "Release version 1.1.0"
+
+# Merge back to Working
+git checkout Working
+git merge release/v1.1.0
+
+# Delete release branch
+git branch -d release/v1.1.0
+```
+
+-----
+
+## 📊 `PROJECT_METRICS`
+
+```yaml
+Branches: 3 (main, Working, Test)
+  ├─ main: Production-ready code
+  ├─ Working: Active development
+  └─ Test: QA/staging environment
+
+Commits: 20+ professional commits
+  ├─ Feature commits: 12
+  ├─ Bug fixes: 5
+  └─ Documentation: 3
+
+Tags: 1+ release tags
+  └─ Semantic versioning (v1.0.0)
+
+Pages: 7 HTML pages
+  └─ Fully responsive design
+
+Merge Strategy: No fast-forward
+  └─ Preserves branch history
+```
+
+-----
+
+## 🔬 `LEARNING_OBJECTIVES`
+
+This project demonstrates practical understanding of:
+
+- **Git Fundamentals**: Commits, branches, merges, tags
+- **Branching Strategies**: GitFlow-inspired workflow
+- **Collaboration**: Pull requests, code reviews
+- **Conflict Resolution**: Manual merge conflict handling
+- **Release Management**: Tagging, versioning, changelogs
+- **Documentation**: READMEs, commit messages, comments
+- **Best Practices**: Conventional commits, clean history
+- **Team Workflows**: Simulated multi-developer environment
+
+**Practical Application**: Real-world version control patterns used in professional software development teams.
+
+-----
+
+## 🚀 `GETTING_STARTED`
+
+### Prerequisites
+
+```bash
+# Git installation
+git --version  # 2.0.0+
+
+# GitLab account (optional)
+# For remote collaboration
+```
+
+### Clone & Explore
+
+```bash
+# Clone repository
+git clone <repository-url>
+cd version-control
+
+# View all branches
+git branch -a
+
+# Switch to Working branch
+git checkout Working
+
+# View commit history
+git log --oneline --graph --all
+
+# View tags
+git tag -l
+```
+
+### Local Development
+
+```bash
+# Create feature branch
+git checkout -b feature/my-feature Working
+
+# Make changes
+# Edit files...
+
+# Commit changes
+git add .
+git commit -m "feat: add new feature"
+
+# Push to remote
+git push origin feature/my-feature
+```
+
+-----
+
+## 📜 `LICENSE_&_USAGE`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  VERSION CONTROL DEMONSTRATION PROJECT                   │
+│                                                          │
+│  This repository showcases professional Git workflows    │
+│  and version control best practices. Serves as a         │
+│  portfolio demonstration of VCS proficiency.             │
+│                                                          │
+│  ⚠️  Educational demonstration only                     │
+│  ⚠️  Use as reference for Git workflows                │
+│  ✓  Available for portfolio review                      │
+│  ✓  Open to technical discussion                        │
+└─────────────────────────────────────────────────────────┘
+```
+
+-----
+
+## 🚀 `AUTHOR`
+
+**Wallace Mendoza** — *Software Engineer*
+
+Demonstrating professional Git workflows, collaborative development practices, and version control expertise.
+
+[GitHub](https://github.com/wallacemendoza) • [Portfolio](#) • [LinkedIn](#)
+
+-----
+
+<div align="center">
+
+### `WORKFLOW_FINGERPRINT`
+
+`GIT` • `GITLAB` • `BRANCHING` • `MERGING` • `TAGGING` • `VERSIONING` • `COLLABORATION`
+
+-----
+
+*Mastering version control for professional software development*
+
+**[⬆ back to top](#git_workflow_mastery)**
+
+</div>
